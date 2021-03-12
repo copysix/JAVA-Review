@@ -1,7 +1,7 @@
 # JAVA-Review
-// 对JAVA基础知识和项目知识点的总结
-
+#对JAVA基础知识和项目知识点的总结
 #暂定目录如下
+
 1. 基本特性
 2. 数据类型
 3. 数据结构
@@ -27,7 +27,7 @@
 #JAVA的基本数据类型和引用数据类型（八种四类）
 ## 2. 数据类型
 
-//  JAVA中的集合
+#JAVA中的集合
 ## 3. 数据结构
 
 #JVM内存模型\JAVA内存模型、垃圾回收
@@ -54,7 +54,7 @@
 #JAVA设计模式和应用
 ## 11. 设计模式
 
-# Spring\SpringMVC\SpringBoot
+#Spring\SpringMVC\SpringBoot
 ## 12. Spring
 
 #索引、倒排索引、分布式
