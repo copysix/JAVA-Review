@@ -1,0 +1,15 @@
+IO
+
+5.1 JAVA IO流包括什么？有什么区别？（字符流和字节流，也可分为输入流和输出流）
+
+5.2 BIO NIO AIO的区别
+
+5.3 JAVA序列化
+
+5.4 多路复用器
+
+5.5 NIO的三大组件（selector、channel、buffer）
+NIO的三大组件管道（Channel），缓冲（Buffer） ，选择器（ Selector）
+缓冲相当于一个容器对象，常用bytebuffer
+管道是传统意义上的IO流，到达任何目的地的所有数据都必须通过管道
+选择器用于监听多个管道的事件，选择何时进行读写
